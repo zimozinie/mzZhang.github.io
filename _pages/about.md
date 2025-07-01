@@ -5,8 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me
-======
+
 I received my Bachelor of Economics from Beihang University in 2025, majoring in Economic Statistics. My research interests lie in FinTech, Machine Learning, and Data Science.
 
 I am currently applying for PhD positions and am available to start in Spring 2026 or even Fall 2026, though I would be particularly interested in any remaining Fall 2025 vacancies (should such opportunities still exist).
