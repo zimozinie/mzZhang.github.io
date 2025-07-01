@@ -12,4 +12,4 @@ I am currently applying for PhD positions and am available to start in Spring 20
 
 Driven by a strong passion for academia, I possess exceptional self-motivation and a proven ability to master new concepts quickly. With an optimistic and proactive attitude, I am committed to bringing fresh perspectives and positive energy to the research team. I hope to earn your consideration for potential openings.
 
-
+For more information, please access my full resume here:[CV](CV-Mingzhe Zhang.pdf)
